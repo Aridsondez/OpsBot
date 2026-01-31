@@ -25,8 +25,7 @@ So something like this:
 
 Thanks claude 
 
-/var/folders/hw/33tk284s12539cfvbkxzs5600000gn/T/TemporaryItems/NSIRD_screencaptureui_ggbJ7J/Screenshot\ 2026-01-31\ at\ 1.46.20 AM.png 
-
+[/Users/aridsondez/Desktop/screenshots/Screenshot 2026-01-31 at 1.49.14 AM.png][picture]
 
 This is another picture I wonder if it shows up but yeah that is the impolimentation of it all pretty cool. 
 
